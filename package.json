@@ -1,0 +1,24 @@
+{
+  "name": "connect-virtualbase",
+  "version": "0.0.1",
+  "description": "Allows the use of virtual base folders in for Connect servers.",
+  "main": "./lib/virtualbase.js",
+  "author": {
+    "name": "Garrett Murphey",
+    "email": "gmurphey@gmurphey.com"
+  }
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gmurphey/connect-virtualbase.git"
+  },
+  "licenses": [{
+    "type": "The MIT License",
+    "url": "http://www.opensource.org/licenses/mit-license.php"
+  }],
+  "engines": {
+    "node": ">= 0.4.0"
+  }
+}
